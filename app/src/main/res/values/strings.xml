@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EasyJournal</string>
+    <string name="app_slogan">every event counts</string>
+    <string name="google_sign_in">Sign up with Google Account</string>
+    <string name="lbl_event_description">Description</string>
+    <string name="lbl_event_time">Time of Event</string>
+    <string name="lbl_event_title">Title of Event</string>
+    <string name="details_activity">Event Details</string>
+    <string name="edit_activity">Edit Event</string>
+    <string name="add_activity">Add Event</string>
+    <string name="opt_delete">Delete</string>
+    <string name="opt_edit">Edit</string>
+    <string name="opt_save">Save</string>
+    <string name="journal_entries">Journal Entries</string>
+
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Type Description</string>
+    <string name="hint_password">Password</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+</resources>
